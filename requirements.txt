@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scipy
+jupyter
+mysql-connector-python  # optional, for the SQL dump
